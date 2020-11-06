@@ -9,7 +9,7 @@ The Following Options along with standard webview is Available over This Project
   6) Support video Full Screen view etc. to support embeded videos like Youtube, Facebook, Vmieo etc.
   7) Improved performance
 
-This Code work with Android Studio 4.0.1
+This Code work with Android Studio 4.1
 
 Please download and open the project and change the URL, change ICON etc and then it is easy for you to use it for your projects.
 
